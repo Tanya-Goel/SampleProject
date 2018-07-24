@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/i1"
+        android:title="Home"
+        android:icon="@drawable/ic_1">
+
+    </item>
+    <item android:id="@+id/i2"
+        android:title="Trending"
+        android:icon="@drawable/ic_2">
+
+    </item>
+    <item android:id="@+id/i3"
+        android:title="Subscriptions"
+        android:icon="@drawable/ic_3">
+
+    </item>
+    <item android:id="@+id/i4"
+        android:title="Activity"
+        android:icon="@drawable/ic_4">
+
+    </item>
+    <item android:id="@+id/i5"
+        android:title="Library"
+        android:icon="@drawable/ic_5">
+
+    </item>
+
+
+</menu>
